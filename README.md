@@ -24,3 +24,5 @@ KnightVision is an AI-based chess engine developed to provide a challenging and 
 
 * Shows real-time evaluations of board positions.
 * Highlights the best moves and their impact on the game.
+
+## Result:
